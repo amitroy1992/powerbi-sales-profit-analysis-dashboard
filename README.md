@@ -114,7 +114,9 @@ Dataset taken from Kaggle:
 ## 👨‍💻 Author
 
 **Amit Roy**
+
 Data Analyst | SQL | Power BI | Python | Excel | Dashboard Developer | Turning Data into Business Insights
+
 📍 Kolkata, India
 
 ---
