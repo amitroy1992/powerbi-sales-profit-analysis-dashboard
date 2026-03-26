@@ -2,14 +2,21 @@
 
 ## 🚀 Project Overview
 
-This project presents an interactive **Power BI dashboard** analyzing sales and profit performance for a retail dataset.
-The dashboard provides key business insights across **sales trends, customer behavior, regional performance, and profitability**.
+This project presents an interactive **Power BI dashboard** built using a real-world retail dataset sourced from Kaggle.
+The dashboard provides actionable insights into **sales performance, customer behavior, regional trends, and profitability**.
 
-It simulates a real-world business scenario similar to **Zomato / retail analytics use cases**.
+It demonstrates end-to-end data analysis workflow including **data cleaning, modeling, and visualization**.
 
 ---
 
-## 📌 Key Insights Delivered
+## 📌 Dataset Source
+
+Dataset taken from Kaggle:
+👉 https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+
+---
+
+## 📊 Key Insights Delivered
 
 * 📈 **Total Sales:** 2.26M+
 * 🧾 **Total Orders:** 9800+
@@ -39,7 +46,7 @@ It simulates a real-world business scenario similar to **Zomato / retail analyti
 
 * Region-wise filtering
 * Category-wise filtering
-* Dynamic visuals update based on selection
+* Dynamic visual updates based on user selection
 
 ---
 
@@ -49,13 +56,14 @@ It simulates a real-world business scenario similar to **Zomato / retail analyti
 * **Power Query** – Data cleaning & transformation
 * **DAX (Data Analysis Expressions)** – KPI calculations
 * **Data Modeling** – Relationships & structure
-* **SQL Concepts** – Used for data understanding & aggregation logic
+* **SQL Concepts** – Used for data understanding and aggregation logic
 
 ---
 
 ## 🗂️ Dataset Information
 
-* Source: Sample retail dataset (Superstore-like structure)
+* Type: Retail Sales Dataset
+* Source: Kaggle
 * Fields included:
 
   * Order ID
@@ -77,9 +85,9 @@ It simulates a real-world business scenario similar to **Zomato / retail analyti
 
 ## 📁 Project Files
 
-* `sales-profit-dashboard-powerbi.pbix` → Power BI Dashboard File
+* `sales-profit-dashboard-powerbi.pbix` → Power BI dashboard file
 * `sales_dataset.csv` → Dataset used
-* `sales-profit-dashboard-preview.png` → Dashboard Preview Image
+* `sales-profit-dashboard-preview.png` → Dashboard preview image
 
 ---
 
@@ -88,7 +96,7 @@ It simulates a real-world business scenario similar to **Zomato / retail analyti
 * Designing business-focused dashboards
 * Creating KPI cards using DAX
 * Building interactive reports with slicers
-* Implementing geographical maps
+* Implementing geographical map visuals
 * Applying conditional formatting for better insights
 * Structuring dashboards for real-world analytics
 
@@ -96,9 +104,9 @@ It simulates a real-world business scenario similar to **Zomato / retail analyti
 
 ## 📌 Future Improvements
 
-* Add Forecasting (Time Series)
-* Drill-through analysis
-* Advanced DAX measures
+* Forecasting (Time Series Analysis)
+* Drill-through reports
+* Advanced DAX calculations
 * Row-level security (RLS)
 
 ---
@@ -106,9 +114,9 @@ It simulates a real-world business scenario similar to **Zomato / retail analyti
 ## 👨‍💻 Author
 
 **Amit Roy**
+Data Analyst | SQL | Power BI | Python | Excel | Dashboard Developer | Turning Data into Business Insights
 📍 Kolkata, India
 
 ---
 
 ## ⭐ If you found this useful, give it a star!
-
